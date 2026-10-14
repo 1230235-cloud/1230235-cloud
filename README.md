@@ -104,30 +104,7 @@ Desarrollo de aplicaciones web, consultas a bases de datos y herramientas de an�
 
 
 ---
-<h2 align="center">🌿 Mi actividad en el jardín de código</h2>
 
-<p align="center">
-  <em>Curiosidad, observación y código: cada contribución cuenta.</em>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/1230235-cloud/1230235-cloud/output/github-snake-dark.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/1230235-cloud/1230235-cloud/output/github-snake.svg"
-      alt="Snake de contribuciones en verde esmeralda"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <sub>⚗️ Robótica · IA · ROS 2 · Desarrollo de software</sub>
-</p>
-    
 ## 🐍 Mi actividad en movimiento
 
 <p align="center">
