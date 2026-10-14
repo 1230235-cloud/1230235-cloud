@@ -82,11 +82,13 @@ Desarrollo de aplicaciones web, consultas a bases de datos y herramientas de an�
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=1230235-cloud&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9&rank_icon=github&locale=es"
-    alt="Estadísticas de GitHub de Lister"
-  />
+ 
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=1230235-cloud&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9&rank_icon=github&locale=es"
+  alt="Estadísticas de GitHub de Lister"
+/>
+
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=1230235-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&langs_count=8&locale=es"
