@@ -79,19 +79,12 @@ Desarrollo de aplicaciones web, consultas a bases de datos y herramientas de an�
 
 ---
 
-## 📊 Estadísticas de GitHub
+
+## 📊 Mi actividad en GitHub
 
 <div align="center">
- 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=1230235-cloud&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9&rank_icon=github&locale=es"
-  alt="Estadísticas de GitHub de Lister"
-/>
-
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1230235-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&langs_count=8&locale=es"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1230235-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&langs_count=8"
     alt="Lenguajes de programación más utilizados"
   />
 </div>
@@ -101,13 +94,14 @@ Desarrollo de aplicaciones web, consultas a bases de datos y herramientas de an�
 <div align="center">
   <img
     src="https://streak-stats.demolab.com/?user=1230235-cloud&theme=dark&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=C9D1D9&dates=8B949E"
-    alt="Racha de contribuciones de GitHub"
+    alt="Racha de contribuciones"
   />
 </div>
 
 <p align="center">
   <em>🌿 Cada contribución es un paso más hacia un sistema inteligente.</em>
 </p>
+
 
 ---
 
