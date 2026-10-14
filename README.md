@@ -105,19 +105,51 @@ Desarrollo de aplicaciones web, consultas a bases de datos y herramientas de an�
 
 ---
 
-## 🐍 Mi actividad en movimiento
+
+---
+
+<h2 align="center">🌿 Mi actividad en el jardín de código</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/1230235-cloud/1230235-cloud/output/github-snake-dark.svg"
-    alt="Animación Snake verde esmeralda de mis contribuciones de GitHub"
-    width="100%"
-  />
+  <em>
+    ⚗️ «Cada contribución es un nuevo experimento»
+  </em>
 </p>
 
 <p align="center">
-  <em>🌿 Cada contribución construye algo más grande.</em>
+  <sub>
+    ━━━━━━━━━━ ✧ ━━━━━━━━━━
+  </sub>
 </p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/1230235-cloud/1230235-cloud/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/1230235-cloud/1230235-cloud/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/1230235-cloud/1230235-cloud/output/github-snake-dark.svg"
+      alt="Animación Snake de contribuciones en verde esmeralda sobre fondo oscuro"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>
+    🌱 ROBÓTICA &nbsp;·&nbsp; INTELIGENCIA ARTIFICIAL &nbsp;·&nbsp; ROS 2 &nbsp;·&nbsp; SOFTWARE
+  </sub>
+</p>
+
+<p align="center">
+  <sub>✧ ──────── 🌿 ──────── ✧</sub>
+</p>
+
 ---
 ## 🎯 En qué quiero seguir creciendo
 
