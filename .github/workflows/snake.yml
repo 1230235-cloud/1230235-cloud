@@ -19,13 +19,15 @@ jobs:
 
     steps:
      
+      
       - name: Generar animación Snake
         uses: Platane/snk@v3
         with:
           github_user_name: 1230235-cloud
           outputs: |
-            dist/github-snake.svg?color_snake=%23059669&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%232161a0
-            dist/github-snake-dark.svg?color_snake=%2334d399&color_dots=%230d1117,%23161b22,%23064e3b,%23059669,%2334d399
+            dist/github-snake.svg?color_snake=%23059669&color_dots=%23ebedf0%2C%239be9a8%2C%2340c463%2C%2330a14e%2C%232161a0
+            dist/github-snake-dark.svg?color_snake=%2334d399&color_dots=%230d1117%2C%23161b22%2C%23064e3b%2C%23059669%2C%2334d399
+
 
       - name: Publicar archivos generados
         uses: crazy-max/ghaction-github-pages@v3.1.0
