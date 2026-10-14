@@ -105,6 +105,20 @@ Desarrollo de aplicaciones web, consultas a bases de datos y herramientas de an�
 
 ---
 
+## 🐍 Mi actividad en movimiento
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/1230235-cloud/1230235-cloud/output/github-snake-dark.svg"
+    alt="Animación Snake verde esmeralda de mis contribuciones de GitHub"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>🌿 Cada contribución construye algo más grande.</em>
+</p>
+---
 ## 🎯 En qué quiero seguir creciendo
 
 - 🤖 Profundizar en ROS 2, robótica autónoma e interacción humano-robot.
