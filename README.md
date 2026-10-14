@@ -1,10 +1,10 @@
 <!--
 Perfil de GitHub para 1230235-cloud.
-Sube también assets/banner-maomao-verde.png al repositorio de perfil para que el banner aparezca.
+Banner: assets/banner-maomao-verde.png
 -->
 
 <div align="center">
-  <img src="assets/banner-maomao-verde.png" alt="Banner anime de Maomao con estética oscura y verde esmeralda" width="100%" />
+  <img src="assets/banner-maomao-verde.png" alt="Banner de Maomao con estética oscura y verde esmeralda" width="100%" />
 </div>
 
 <h1 align="center">🌿 ¡Hola! Soy Lister</h1>
@@ -56,40 +56,73 @@ Participé en tareas de **reconocimiento de voz** y **pruebas de interacción hu
 ## 🚀 Proyectos que me interesan
 
 ### 🤖 Robótica móvil
+
 Robots seguidores de línea y sumo, lectura de sensores, control de motores y experimentación con estrategias de navegación.
 
 ### 🎙️ Reconocimiento de voz con ROS 2
-Exploración de comandos de voz, Vosk y flujos de interacción para robots, con atención a los recursos de hardware y la respuesta del sistema.
+
+Exploración de comandos de voz, Vosk y flujos de interacción para robots, teniendo en cuenta los recursos de hardware y la capacidad de respuesta del sistema.
 
 ### 👁️ Visión por computadora y video
-Procesamiento de imágenes y video usando OpenCV y FFmpeg, incluyendo filtros visuales y transformaciones en tiempo real.
 
-### 📊 Aplicaciones y datos
-Desarrollo de aplicaciones web y consultas a bases de datos, integrando herramientas como React, Node.js y SQL Server.
+Procesamiento de imágenes y video con OpenCV y FFmpeg, incluyendo filtros visuales y transformaciones en tiempo real.
 
-> Explora mis repositorios para ver el código, las pruebas y la evolución de mis proyectos: [github.com/1230235-cloud](https://github.com/1230235-cloud?tab=repositories).
+### 📊 Aplicaciones y análisis de datos
 
-## 📈 Mi actividad en GitHub
+Desarrollo de aplicaciones web, consultas a bases de datos y herramientas de análisis utilizando tecnologías como React, Node.js y SQL Server.
+
+<p align="center">
+  <a href="https://github.com/1230235-cloud?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar_mis_repositorios-0b8f68?style=for-the-badge&logo=github&logoColor=white" alt="Explorar mis repositorios" />
+  </a>
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1230235-cloud&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9&rank_icon=github&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1230235-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&langs_count=8&locale=es" alt="Lenguajes más usados" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=1230235-cloud&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9&rank_icon=github&locale=es"
+    alt="Estadísticas de GitHub de Lister"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1230235-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&langs_count=8&locale=es"
+    alt="Lenguajes de programación más utilizados"
+  />
 </div>
 
+## 🔥 Racha de contribuciones
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=1230235-cloud&theme=dark&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&locale=es" alt="Racha de contribuciones" />
+  <img
+    src="https://streak-stats.demolab.com/?user=1230235-cloud&theme=dark&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=C9D1D9&dates=8B949E"
+    alt="Racha de contribuciones de GitHub"
+  />
 </div>
+
+<p align="center">
+  <em>🌿 Cada contribución es un paso más hacia un sistema inteligente.</em>
+</p>
+
+---
 
 ## 🎯 En qué quiero seguir creciendo
 
-- Profundizar en ROS 2, robótica autónoma e interacción humano-robot.
-- Mejorar mis habilidades de inteligencia artificial y visión por computadora.
-- Construir proyectos documentados, reproducibles y útiles.
-- Participar en más competencias y colaborar en proyectos de ingeniería.
+- 🤖 Profundizar en ROS 2, robótica autónoma e interacción humano-robot.
+- 🧠 Mejorar mis habilidades en inteligencia artificial y visión por computadora.
+- 🔬 Construir proyectos documentados, reproducibles y útiles.
+- 🏆 Participar en más competencias y colaborar en proyectos de ingeniería.
+- 🌱 Aprender nuevas tecnologías y convertir ideas en soluciones funcionales.
 
 ---
 
 <div align="center">
-  <em>「La curiosidad también es una forma de inteligencia.」 — Maomao</em><br /><br />
+  <em>「La curiosidad también es una forma de inteligencia.」 — Maomao</em>
+  <br /><br />
   <sub>Gracias por visitar mi perfil · Sigue aprendiendo, sigue construyendo 🌿</sub>
+  <br /><br />
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-0b8f68?style=flat-square" alt="Siempre aprendiendo" />
 </div>
